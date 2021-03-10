@@ -47,6 +47,12 @@ body {
     /* text-align: justify; */
 }
 
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 @media (max-width: 768px) {
     .testimonial-container {
         padding: 20px 30px;
