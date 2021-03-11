@@ -75,4 +75,6 @@ function updateTestimonial() {
     };
 };
 
+setInterval(() => {
 updateTestimonial();
+}, 10000);
