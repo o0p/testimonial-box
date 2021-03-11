@@ -1,0 +1,1 @@
+const testimonialsContainer = document.querySelector('.testimonial-container');
